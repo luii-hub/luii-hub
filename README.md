@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">♦︎ I'm as aspiring software developer from the Philippines 🇵🇭.<br><br>♦︎ I'm currently a Quality Assurance Tester for our web application project  called BantayBuddy 🐶. A social media platform for pets and pet owners alike 🌐.<br><br>♦︎ In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
+<p align="left">♦︎ I'm as aspiring software developer from the Philippines 🇵🇭.<br><br>♦︎ I'm currently a Quality Assurance Tester for our web application project  called BantayBuddy 🐶. <br>  A social media platform for pets and pet owners alike 🌐.<br><br>♦︎ In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
 
 ###
 
@@ -27,8 +27,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=luii-hub&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luii-hub&radius=16&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=luii-hub&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
