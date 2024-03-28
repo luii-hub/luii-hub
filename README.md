@@ -1,16 +1,25 @@
 <h2 align="left">Hello there👋! My name is Luis!</h2>
+
 ###
+
 <img align="right" height="204" src="https://media.giphy.com/media/4DCHRxr5vf4m5XL3yu/giphy.gif"  />
+
 ###
+
 <p align="left">I'm as aspiring software developer from the Philippines.<br><br>I'm currently a Quality Assurance Tester for our web application project  called BantayBuddy. A social media platform for pets and pet owners alike.<br><br>In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
+
 ###
+
 <br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luii-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=luii-hub&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luii-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 ###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -18,9 +27,13 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+
 ###
+
 <h4 align="left">Languages and Tools</h4>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
   <img width="15" />
@@ -58,9 +71,13 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=r" height="35" alt="r logo"  />
 </div>
+
 ###
+
 <h4 align="left">Softwares and Applications</h4>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
   <img width="15" />
@@ -78,5 +95,5 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ae" height="35" alt="adobeaftereffects logo"  />
 </div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=luii-hub&label=Profile%20views&color=0e75b6&style=flat" alt="luii-hub" /> </p>
+
 ###
