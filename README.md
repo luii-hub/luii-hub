@@ -1,8 +1,14 @@
+<div align="center">
+  <img height="" src="https://media.giphy.com/media/EPMVzb3UasQVWu2V0h/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="left">Hello there👋! My name is Luis!</h2>
 
 ###
 
-<img align="right" height="204" src="https://media.giphy.com/media/4DCHRxr5vf4m5XL3yu/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/4DCHRxr5vf4m5XL3yu/giphy.gif"  />
 
 ###
 
