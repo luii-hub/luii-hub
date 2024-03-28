@@ -8,8 +8,8 @@
 
 ###
 
-<img align="right" width="200" height="200" src="https://media.giphy.com/media/4DCHRxr5vf4m5XL3yu/giphy.gif"  />
-<p align="left">I'm as aspiring software developer from the Philippines.<br><br>I'm currently a Quality Assurance Tester for our web application project  called BantayBuddy. A social media platform for pets and pet owners alike.<br><br>In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/4DCHRxr5vf4m5XL3yu/giphy.gif"/>
+<p align="left">I'm as aspiring software developer from the Philippines 🙌.<br><br>I'm currently a Quality Assurance Tester for our web application project called BantayBuddy 🐶. A social media platform for pets and pet owners alike.<br><br>In my free time, I study Front-End Development at UDemy to expand my skills as a developer 🧑‍💻.</p>
 
 ###
 
