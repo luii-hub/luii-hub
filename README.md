@@ -36,6 +36,10 @@
 
 ###
 
+<h3 align="center">Connect with me</h4>
+
+###
+
 <div align="center">
   <a href="https://www.facebook.com/luiiem" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /> </a>
   <a href="https://www.linkedin.com/in/luiiem/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
@@ -84,6 +88,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" alt="ruby logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="ruby logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=r" height="35" alt="r logo"  />
 </div>
