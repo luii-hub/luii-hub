@@ -1,3 +1,6 @@
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=luii-hub&color=ff69b4&style=flat-square" alt="GitHub Profile Views Counter">
+</div>
 <div align="center">
   <img height="" src="AguY9fsDoaFO2OwFwf.webp" width="100%" />
 </div>
