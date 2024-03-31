@@ -15,12 +15,11 @@
 
 ###
 
-<p align="left">♦︎ I'm as aspiring software developer from the Philippines 🇵🇭.<br><br>♦︎ I'm currently a Quality Assurance Tester for our web application project  called BantayBuddy 🐶. <br>  A social media platform for pets and pet owners alike 🌐.<br><br>♦︎ In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
+<p align="left">♦︎ I'm as aspiring software developer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in full-stack development, DevOps, and HCI <br><br>♦︎ I'm a Quality Assurance Tester for our web application project, BantayBuddy 🐶. <br>  A social media platform for pets and pet owners alike 🌐.<br><br>♦︎ In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
 
 ###
 
 <br clear="both">
-<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luii-hub&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=luii-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
