@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">♦︎ I'm as aspiring software developer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in full-stack development, DevOps, and HCI <br><br>♦︎ I'm a Quality Assurance Tester for our web application project, BantayBuddy 🐶. <br>  A social media platform for pets and pet owners alike 🌐.<br><br>♦︎ In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
+<p align="left">♦︎ I'm as aspiring software developer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in full-stack development, Business Intelligence, and HCI <br><br>♦︎ I'm a Quality Assurance Tester for our web application project, BantayBuddy 🐶. <br>  A social media platform for pets and pet owners alike 🌐.<br><br>♦︎ In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
 
 ###
 
