@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">♦︎ I'm as aspiring software developer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in full-stack development, Business Intelligence, and HCI <br><br>♦︎ I'm a Quality Assurance Tester for our web application project, BantayBuddy 🐶. <br>  A social media platform for pets and pet owners alike 🌐.<br><br>♦︎ In my free time, I study Front-End Development at UDemy to expand my skills as a developer.</p>
+<p align="left">♦︎ I'm a Software Technology student turned aspiring Data Engineer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in full-stack development, Big Data, Business Intelligence, and HCI <br><br>
 
 ###
 
@@ -29,7 +29,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luii-hub&radius=16&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=luii-hub&theme=darkhub&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
