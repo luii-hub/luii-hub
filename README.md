@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">♦︎ I'm a Software Technology student turned aspiring Data Engineer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in full-stack development, Big Data, Business Intelligence, and HCI <br><br>
+<p align="left">♦︎ I'm a Software Technology student turned aspiring Data Engineer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in Data & Cloud Engineering, AI, UI/UX and Full Stack Development,  <br><br>
 
 ###
 
