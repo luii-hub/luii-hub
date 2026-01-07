@@ -15,11 +15,12 @@
 
 ###
 
-<p align="left">♦︎ I'm a Software Technology student turned aspiring Data Engineer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in Data & Cloud Engineering, AI, and UI/UX.  <br>
-<p align="left">♦︎ Fluent Languanges: Python, SQL, HTML, CSS, JavaScript <br>
-<p align="left">♦︎ Other Languanges: C, Java <br>
-<p align="left">♦︎ Tools: Docker, PowerBI, AWS, Postgres, MySQL, Shell <br>
-<p align="left">♦︎ Others: Photoshop, Premier Pro, Canva, MS Tools  <br>
+<p align="left">♦︎ I'm a Software Technology student turned aspiring Data Engineer from the Philippines 🇵🇭.<br><br> ♦︎ I'm interested in Data & Cloud Engineering, AI, and UI/UX.  <br><br>
+
+<p align="left">♦︎ **Fluent Languanges**: Python, SQL, HTML/CSS, JavaScript <br><br>
+<p align="left">♦︎ **Other Languanges**: C, Java <br><br>
+<p align="left">♦︎ **Tools**: Docker, Jupyter Notebooks, Airflow, PowerBI, AWS, Postgres, MySQL, Shell <br><br>
+<p align="left">♦︎ **Others**: Photoshop, Premier Pro, Canva, MS Tools  <br><br>
 
 
 
