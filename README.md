@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Software Technology student turned Data Engineer from the Philippines 🇵🇭. I'm interested in Data Engineering, Cloud, and HCI. I've worked on various software and data engineering projects and participated in multiple tech talks hosted internationally and locally.
+I graduated Computer Science, Major in Software Technology at De La Salle Univerity. Turned Data Engineer from the Philippines 🇵🇭. I'm interested in Data Engineering, Cloud, and HCI. I've worked on various software and data engineering projects and participated in multiple tech talks hosted internationally and locally.
 
 - 📚 I'm currently learning Snowflake and AWS to further my knowledge in Data Engineering and Cloud Computing.
 - 💻 I'm currently working on Snowflake Data Warehousing and hopefully use this knowledge to build a data warehouse on other platforms in the future.
