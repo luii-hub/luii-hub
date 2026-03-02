@@ -19,7 +19,13 @@ I'm a Software Technology student turned Data Engineer from the Philippines 🇵
 - 💻 I'm currently working on Snowflake Data Warehousing and hopefully use this knowledge to build a data warehouse on other platforms in the future.
 - 🎲 In my free time, I play play video games and host board game nights with my friends. I also a community volunteer at Data Engineering Pilipinas, a local community of data engineers in the Philippines.
 <br><br>
-<h1 align="center">My Stack</h1>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luii-hub/luii-hub/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luii-hub/luii-hub/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luii-hub/luii-hub/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <div align="left">
   <h3 align="left">Languages</h3>
@@ -64,26 +70,9 @@ I'm a Software Technology student turned Data Engineer from the Philippines 🇵
   <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 </div>
 
-###
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luii-hub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=luii-hub&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
-
-###
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luii-hub/luii-hub/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luii-hub/luii-hub/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luii-hub/luii-hub/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-###
 
 
 
