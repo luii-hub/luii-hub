@@ -70,10 +70,5 @@ I graduated Computer Science, Major in Software Technology at De La Salle Univer
   <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luii-hub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-
 
 
